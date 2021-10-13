@@ -1,0 +1,63 @@
+{
+    "status": "ok",
+    "totalResults": 10,
+    "articles": [
+        
+        {
+            "source": {
+                "id": "nfl-news",
+                "name": "NFL News"
+            },
+            "author": null,
+            "title": "Week 5 Thursday night inactives: Los Angeles Rams at Seattle Seahawks",
+            "description": "The official inactives for the Los Angeles Rams at Seattle Seahawks \"Thursday Night Football\" game.",
+            "url": "https://www.nfl.com/news/week-5-thursday-night-inactives-los-angeles-rams-at-seattle-seahawks",
+            "urlToImage": "https://static.www.nfl.com/image/private/t_editorial_landscape_12_desktop/league/xjnnujtv7cbp4knhxq8r",
+            "publishedAt": "2021-10-08T03:37:25.6207117Z",
+            "content": "Broncos QB Teddy Bridgewater suffered a concussion and was ruled out just before halftime during Denver's Week 4 matchup against the Ravens. Rookie Odafe Oweh, who delivered the devastating blow, sai… [+43 chars]"
+        },
+       
+        {
+            "source": {
+                "id": "fox-sports",
+                "name": "Fox Sports"
+            },
+            "author": "FOX Sports",
+            "title": "Thursday Night Football top plays: Rams take on Seahawks in NFC West showdown",
+            "description": "The Rams take on the Seahawks in a crucial NFC West battle on FOX. Here are the top moments!",
+            "url": "http://www.foxsports.com/stories/nfl/thursday-night-football-top-plays-los-angeles-rams-seattle-seahawks-nfc-west-showdown",
+            "urlToImage": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2021/10/1408/814/10.7.21_NFL-Top-Moments-16x9.jpg?ve=1&tl=1",
+            "publishedAt": "2021-10-08T00:56:42Z",
+            "content": "NFC West bragging rights are on the line in Thursday night's NFL\r\n matchup. \r\nMatt Stafford and the Los Angeles Rams\r\n (3-1) are in Seattle to take on Russell Wilson and the Seahawks\r\n (2-2) in a bat… [+1190 chars]"
+        },
+       
+        
+        {
+            "source": {
+                "id": "fox-sports",
+                "name": "Fox Sports"
+            },
+            "author": "FOX Sports",
+            "title": "The battle for supremacy in the NFL's toughest division",
+            "description": "The NFC West is the top division in football. A pair of upcoming games should help things come nicely into focus, Martin Rogers writes.",
+            "url": "http://www.foxsports.com/stories/nfl/battle-for-supremacy-in-nfl-toughest-division-nfc-west",
+            "urlToImage": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2021/10/1408/814/a0d11de2-615_Editorial_1920x1080_Newsletter_NFL_NFCWest.jpg?ve=1&tl=1",
+            "publishedAt": "2021-10-07T22:24:41Z",
+            "content": "By Martin Rogers\r\nFOX Sports Columnist\r\nThe most impressive thing about the Arizona Cardinals right now might not be that they are, at 4-0, the last remaining undefeated team in the National Football… [+4902 chars]"
+        },
+      
+        {
+            "source": {
+                "id": "espn-cric-info",
+                "name": "ESPN Cric Info"
+            },
+            "author": null,
+            "title": "Five famous people (and one cat) you didn't know have ESPNcricinfo profiles | ESPNcricinfo.com",
+            "description": "Why do a footballer, a Nobel laureate and a prime minister (no, not Imran Khan) find themselves in the ESPNcricinfo player database? | ESPNcricinfo.com",
+            "url": "http://www.espncricinfo.com/story/_/id/29102695/five-famous-people-one-cat-know-espncricinfo-profiles",
+            "urlToImage": "https://a.espncdn.com/i/cricket/cricinfo/1221668_1296x1296.gif",
+            "publishedAt": "2020-04-27T07:20:43Z",
+            "content": "Why do a cat, a footballer, a Nobel laureate and a prime minister find themselves in the ESPNcricinfo database? Here are six player profiles you wouldn't have expected we had.\r\nPeter the catThe only … [+5504 chars]"
+        }
+    ]
+}
