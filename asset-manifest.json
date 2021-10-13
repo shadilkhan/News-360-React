@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/shadilkhan/News-360-React.git/static/css/main.a4a20492.chunk.css",
+    "main.js": "/shadilkhan/News-360-React.git/static/js/main.b66165a7.chunk.js",
+    "main.js.map": "/shadilkhan/News-360-React.git/static/js/main.b66165a7.chunk.js.map",
+    "runtime-main.js": "/shadilkhan/News-360-React.git/static/js/runtime-main.8e67cd38.js",
+    "runtime-main.js.map": "/shadilkhan/News-360-React.git/static/js/runtime-main.8e67cd38.js.map",
+    "static/js/2.ff394242.chunk.js": "/shadilkhan/News-360-React.git/static/js/2.ff394242.chunk.js",
+    "static/js/2.ff394242.chunk.js.map": "/shadilkhan/News-360-React.git/static/js/2.ff394242.chunk.js.map",
+    "static/js/3.29868eb3.chunk.js": "/shadilkhan/News-360-React.git/static/js/3.29868eb3.chunk.js",
+    "static/js/3.29868eb3.chunk.js.map": "/shadilkhan/News-360-React.git/static/js/3.29868eb3.chunk.js.map",
+    "index.html": "/shadilkhan/News-360-React.git/index.html",
+    "static/css/main.a4a20492.chunk.css.map": "/shadilkhan/News-360-React.git/static/css/main.a4a20492.chunk.css.map",
+    "static/js/2.ff394242.chunk.js.LICENSE.txt": "/shadilkhan/News-360-React.git/static/js/2.ff394242.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8e67cd38.js",
+    "static/js/2.ff394242.chunk.js",
+    "static/css/main.a4a20492.chunk.css",
+    "static/js/main.b66165a7.chunk.js"
+  ]
+}
